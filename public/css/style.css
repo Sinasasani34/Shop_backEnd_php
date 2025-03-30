@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/Vazir-Medium.woff');
+}
+
+* {
+    font-family: Vazir;
+}
+
+.set_style_link {
+    text-decoration: none;
+    font-weight: medium;
+}
+
+.mainTable {
+    direction: rtl;
+    font-size: 13px;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
